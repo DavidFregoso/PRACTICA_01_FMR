@@ -10,5 +10,6 @@
     <p>Esto es un párrafo</p>
     <h1>Esto es un header</h1>
     <!-- (En la práctica se agregará la imagen y el script, ver pasos posteriores) -->
+    <img src="[URL DE LA IMAGEN]">
   </body>
 </html>
